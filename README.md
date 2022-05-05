@@ -1,3 +1,10 @@
+Hey, I created a React Credit Card Form for my daily task at Masai School. In this project, I learned a lot about various liberaries, explored amd learned. 
+First, install- 1.npm install react-bootstrap bootstrap
+2.npm install --save react-credit-cards
+3. npm i card-validator
+
+then, npm start!!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
